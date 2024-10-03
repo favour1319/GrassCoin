@@ -1,0 +1,110 @@
+body{
+    background:black;
+    touch-action:pan-x;
+    touch-action:pan-y;
+}
+.GrassCoin{
+    color:white;
+    width: 39px;
+    font-size: 6.5rem;  
+}
+.im{
+    height: 640px;
+    background-size:cover;
+    border-radius: 2em;
+}
+.r{
+    width:960px;
+    height:380px;
+    background:rgb(46, 48, 48);
+    box-shadow: 2px 2px 5px lightslategray;
+    border-radius: 2%;
+    font-size: 70px;
+    color: white;
+    
+}
+.home{
+    font-size: 40px;
+    color: rgb(211, 206, 206);
+    position: absolute;
+}
+.money{
+    color: white;
+    margin-left:340px ;
+    font-size: 70px;
+    width: fit-content;
+    position: absolute;
+}
+.img{
+    margin-left:340px ;
+   height: 60px;
+    width: fit-content;
+    margin-left: 250px;
+}
+.button{
+    height: 80px;
+    color: white;
+    background-color:black;
+    width: 200px;
+    font-size: 40px;
+    border-radius: 3em;
+    margin-left: 70px;
+    cursor: pointer;
+    
+}
+.Your{
+    color:white;
+    font-size: 60px;
+}
+.header{
+    position: sticky;
+    bottom: 0;
+}
+.home2{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 20px;
+}
+.wallet{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 130px;
+}
+.leader{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 150px;
+}
+.friend{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 170px;
+}
+.label{
+    color: white;
+   font-size: 40px;
+   margin-left: 20px;
+}
+.labe{
+    color: white;
+   font-size: 40px;
+   margin-left: 130px;
+}
+.lab{
+    color: white;
+   font-size: 40px;
+   margin-left: 110px;
+}
+.la{
+    color: white;
+   font-size: 40px;
+   margin-left: 170px;
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+}

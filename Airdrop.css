@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+}
+.img{
+    background-size:cover ;
+    border-radius: 4em;
+    height: 640px;
+}
+.home2{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 20px;
+}
+.wallet{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 130px;
+}
+.leader{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 150px;
+}
+.friend{
+    height: 5rem;
+    border-radius: 7rem;
+    width: 6rem;
+    margin-left: 170px;
+}
+.label{
+    color: white;
+   font-size: 40px;
+   margin-left: 20px;
+}
+.labe{
+    color: white;
+   font-size: 40px;
+   margin-left: 130px;
+}
+.lab{
+    color: white;
+   font-size: 40px;
+   margin-left: 110px;
+}
+.la{
+    color: white;
+   font-size: 40px;
+   margin-left: 170px;
+}
+
+.tr{
+    margin-left: 20px;
+    width: 440px;
+   padding: 10px 15px;
+   height: 130px;
+   font-size: 42.3px;
+   background-color: rgb(255, 255, 255,0.2);
+   color: white;
+   box-shadow: 3px 3px 8px green;
+}
+.clai{
+    width:960px;
+    height:490px;
+    background:rgb(46, 48, 48);
+    box-shadow: 2px 2px 5px lightslategray;
+    border-radius: 2%;
+    font-size: 70px;
+    color: white;
+    border-radius: .5em;
+    box-shadow: 4px 4px 9px green;
+    position: absolute;
+}
+button:hover{
+    background-color:black;
+    letter-spacing: 0.23em;
+}
+button:active{
+    background-color:black;
+    letter-spacing: 0.23em;
+}
+.gold{
+    height: 110px;
+    padding: 2px 370px;
+}
+.Earn{
+    padding: 2px 300px;
+}
+.Claim{
+        height: 80px;
+        color: white;
+        background-color:black;
+        width: 340px;
+        font-size: 40px;
+        border-radius: 3em;
+        margin-left: 260px;
+        cursor: pointer;
+}
